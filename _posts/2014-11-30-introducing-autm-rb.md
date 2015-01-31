@@ -1,21 +1,26 @@
 ---
-title: "Introducing Autm-rb: A Bootstrap-Based Jekyll Theme"
-tags: [Autm-rb, download]
+title: "Final Project"
+tags: [Final, Project]
 ---
 
-![Autumn-rb](http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10561076_278209769029508_1423568667_n.jpg)
+![Final Project](http://.jpg)
 
 ## Introduction
 
-Autm-rb is a simple and beautiful [Jekyll](http://jekyllrb.com/) theme. Partly based on "shiori" and "midnight" themes. Now It looks really cool.
+In my final project I want explore the connection and the interoperability of a modular cube that have one face that can turn (360 degrees) in booth direction. [Jekyll](http://jekyllrb.com/) theme. Partly based on "shiori" and "midnight" themes. Now It looks really cool.
 
-## Features
-Autm-rb can be used for both portfolio and blogging.
+## My cube have this Features
 
-- github, stackoverflow, twitter links
-- sharebuttons: twitter, facebook, google plus
-- comments via DISQUS
-- pagination
+#Movment
+- Movment by sevomotor or step by step motor 
+- reduction gear aplly directly to the movment
+
+#Eletronics
+- interoperability (direct) (smartphone) (pc)
+- Video Control panel o phisical
+
+where the cube is plugged
+pagination
 - tags
 - codehighlighting
 - bootstrap components
@@ -23,6 +28,9 @@ Autm-rb can be used for both portfolio and blogging.
 - responsive
 - embeded video support
 - cool colors
+
+
+------------
 
 <a href="https://github.com/railsr/autm-rb" target="_blank" class="btn btn-success"><i class="fa fa-github fa-lg"></i> View on GitHub</a>
 
