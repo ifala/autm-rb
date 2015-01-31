@@ -2,9 +2,10 @@
 title: "Final Project"
 tags: [Final, Project]
 ---
-
-![Final Project](http://.jpg)
-
+    ![test]({{site.baseurl}}/images/local/myphoto_low.jpg)
+    ![test]({{site.baseurl}}/images/local/fab-academy2_low.jpg)
+    ![test]({{site.baseurl}}/images/local/logo_fablab_s_low.jpg)
+    ![test]({{site.baseurl}}/images/local/fablabcontea.jpg)
 ## Introduction
 
 In my final project I want explore the connection and the interoperability of a modular cube that have one face that can turn (360 degrees) in booth direction. [Jekyll](http://jekyllrb.com/) theme. Partly based on "shiori" and "midnight" themes. Now It looks really cool.
