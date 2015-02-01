@@ -8,6 +8,7 @@ layout: post
 ## WEEK1
 ### Weekly_Assignments 
 The assignments for the first week are:
+
 - to build our own website
 
 - [introduce ourselves]({{site.baseurl}}/resume)
